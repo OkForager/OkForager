@@ -1,5 +1,9 @@
 ### Hi there 👋
+***I am a passion driven human that loves to help where ever I can.***
 
+
+I am currently learning python and markdown to try to creat a data base for plants around the world. Any helpful hints in what direction i could go.
+The data base will be some what large so any advise to how to manag the data would be muchly appreciated. 
 <!--
 **OkForager/OkForager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
